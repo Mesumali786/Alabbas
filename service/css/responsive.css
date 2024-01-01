@@ -475,52 +475,7 @@
         padding: 40px 0px 70px 0px;
     }
     .service-section .tab-btns li {
-        width: 33%;
-        font-size: 9px;
-        padding: 1px 0px;
-    }
-    .service-section .tabs-content .tab .inner-box h3{
-        font-size: 12px;
-        margin-bottom: 0;
-        margin-top: 0;
-
-    }
-    .service-section .sec-title h2{
-        font-size: 1rem;
-        margin-top: 0;
-        margin-bottom: 0;
-        line-height: 20px;
-        top: 34px;
-    }
-    .service-section .sec-title h5{
-        margin-bottom: -30px;
-    }
-    .tabs-box .tab {
-        top: -46px;
-    }
-    .service-section .tabs-content .tab .inner-box h4{
-        font-size: 12px;
-    }
-    .service-section .tabs-content .tab .inner-box p {
-        font-size: 10px;
-        line-height: 10px;
-        margin: 0px 0px 0px;
-    }
-    .service-section .tabs-content .tab .inner-box .icon-box {
-        width: 28px;
-        height: 28px;
-        line-height: 25px;
-        font-size: 10px;
-    }
-    .content_block_two .content-box .single-item {
-        padding:  0px 0px 0px 32px;
-        margin-bottom: 0px;
-    }
-    .content_block_two .content-box .single-item h4{
-        margin-bottom: 0;
-    }
-    .scroll-to-top .scroll-top-inner {
-        display: none;
+        width: 100%;
     }
     .service-section .tab-btns li:before {
         display: none;
@@ -1089,14 +1044,6 @@
 }
 
 @media only screen and (max-width: 399px) {
-    .content_block_six .content-box .support-box h3 {
-        font-size: 16px;
-    }
-    .main-header .outer-box {
-        padding: 0px 15px;
-    }
-}
-@media only screen and (max-width: 360px) {
     .content_block_six .content-box .support-box h3 {
         font-size: 16px;
     }
