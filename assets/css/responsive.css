@@ -485,11 +485,24 @@
         margin-top: 0;
 
     }
+    .service-section .sec-title h2{
+        font-size: 1rem;
+        margin-top: 0;
+        margin-bottom: 0;
+        line-height: 20px;
+        top: 34px;
+    }
+    .service-section .sec-title h5{
+        margin-bottom: -30px;
+    }
+    .tabs-box .tab {
+        top: -46px;
+    }
     .service-section .tabs-content .tab .inner-box h4{
         font-size: 12px;
     }
     .service-section .tabs-content .tab .inner-box p {
-        font-size: 6px;
+        font-size: 10px;
         line-height: 10px;
         margin: 0px 0px 0px;
     }
