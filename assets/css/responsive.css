@@ -443,6 +443,9 @@
 }
 
 @media only screen and (max-width: 767px) {
+    .image-shape {
+        display: none;
+    }
     .banner-carousel .content-box h2 {
         font-size: 40px;
         line-height: 50px;
@@ -1036,7 +1039,9 @@
         padding: 0px;
     }
     .image_block_eight .image-box .image-2 {
-        position: relative;
+        /* position: relative; */
+        height: 270px;
+        width: 270px;
     }
     .image_block_eight .image-box .icon-box {
         display: none;
