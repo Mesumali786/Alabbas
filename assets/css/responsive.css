@@ -2,6 +2,10 @@
 /* Responsive Css */
 
 @media only screen and (max-width: 1699px) {
+    .Ex-p{ 
+        width: 200px;
+        height: 200px;
+    }
     .main-header .logo-box {
         margin-right: 30px;
     }
@@ -25,9 +29,23 @@
     }
 }
 
-@media only screen and (max-width: 1299px) {}
+@media only screen and (max-width: 1299px) {
+    .Ex-p{ 
+        width: 200px;
+        height: 200px;
+    }
+}
 
 @media only screen and (max-width: 1200px) {
+    .Ex-p{ 
+        width: 150px;
+        height: 150px;
+        text-align: center;
+    }
+    h1.text-white.font-a{
+        text-align: center;
+        font-size: 40px !important;
+    }
     .main-menu,
     .sticky-header,
     .main-header.style-one .outer-container:before {
