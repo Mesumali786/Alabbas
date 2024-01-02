@@ -1,3 +1,4 @@
+
 /* Responsive Css */
 
 @media only screen and (max-width: 1699px) {
@@ -447,7 +448,7 @@
         line-height: 50px;
     }
     .banner-carousel .slide-item {
-        padding-bottom: 230px;
+        padding-bottom: 140px;
     }
     .search-field .search-area form {
         padding-right: 0px;
@@ -1029,6 +1030,7 @@
     .banner-style-five .banner-info {
         padding-left: 30px;
         padding-right: 30px;
+        height: 350px;
     }
     .image_block_eight .image-box {
         padding: 0px;
