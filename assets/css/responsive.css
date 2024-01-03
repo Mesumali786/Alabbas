@@ -3,25 +3,28 @@
 
 @media only screen and (max-width: 1699px) {
     .Ex-p{ 
-        width: 200px;
-        height: 200px;
+        width: 160px;
+        height: 160px;
+
         text-align: center;
-        padding: 35px !important;
+        padding: 13px !important;
         /* margin: 1px !important; */
     }
     h1.text-white.font-a{
         text-align: center;
-        font-size: 60px !important;
-        margin-bottom: 1px;
+        font-size: 50px !important;
+        line-height: .4px;
+        /* margin-bottom: 1px; */
     }
     h2.text-white.font-a{
         text-align: center;
-        font-size: 26px !important;
+        font-size: 36px !important;
         margin-bottom: 1px;
+        line-height: .4px;
     }
     h5.text-white.font-a{
         text-align: center;
-        font-size: 17px !important;
+        font-size: 25px !important;
     }
     .main-header .logo-box {
         margin-right: 30px;
@@ -109,7 +112,7 @@
         text-align: center;
     }
     .header-top .info li {
-        float: left;
+        float: none;
         padding-top: 0px;
         padding-bottom: 0px;
     }
@@ -1172,9 +1175,5 @@
     }
     .main-header .outer-box {
         padding: 0px 15px;
-    }
-    .header-top .info li {
-        margin-left: 15px;
-        padding-left: 15px;
     }
 }
