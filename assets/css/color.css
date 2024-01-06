@@ -104,6 +104,11 @@
 
 .feature-block-one .inner-box:hover .content-box {
     background: rgba(27, 33, 78, 255);
+    color: #fff;
+}
+.feature-block-one .inner-box:hover .content-box {
+    background: rgba(27, 33, 78, 255);
+    color: #fff;
 }
 
 .content_block_two .content-box .single-item .icon-box {

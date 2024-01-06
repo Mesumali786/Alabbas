@@ -2057,8 +2057,12 @@
      transition: all 500ms ease;
  }
 
- .feature-block-one .inner-box:hover .content-box {}
-
+ .feature-block-one .inner-box:hover .content-box h3 a {
+    color: white;
+}
+.feature-block-one .inner-box:hover .content-box p {
+    color: white;
+}
  .feature-block-one .inner-box .content-box .icon-box {
      margin-bottom: -28px;
      transition: all 500ms ease;
