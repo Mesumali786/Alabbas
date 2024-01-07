@@ -2663,8 +2663,30 @@
  }
 
  /** team-section **/
+/*** Team ***/
+.team-text {
+    position: absolute;
+    width: 75%;
+    bottom: 30px;
+    left: 0;
+    transition: .5s;
+}
 
- .team-section {
+.team-item:hover .team-text {
+    width: 100%;
+}
+
+.team-text * {
+    transition: .5s;
+}
+
+.team-item:hover .team-text * {
+    letter-spacing: 2px;
+}
+
+
+
+ /* .team-section {
      position: relative;
  }
 
@@ -2835,7 +2857,7 @@
  }
 
  .team-section .owl-theme .owl-dots .owl-dot.active span,
- .team-section .owl-theme .owl-dots .owl-dot span:hover {}
+ .team-section .owl-theme .owl-dots .owl-dot span:hover {} */
 
  /** project-section **/
 
